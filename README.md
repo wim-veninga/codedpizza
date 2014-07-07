@@ -1,4 +1,4 @@
 codedpizza
 ==========
 
-Application for Code &amp; Pizza Sessions
+Application for Code &amp; Pizza Sessions.
